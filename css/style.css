@@ -36,6 +36,7 @@ p{
     margin-bottom: 7rem;
 }
 
+
 .top-section{
     background-image: url(../images/Frame\ 58.jpg);
     display: flex;
@@ -108,9 +109,17 @@ p{
 
 .right-about img{
     width:75%;
-    max-height: 65%;
+    width: 40%;
 }
 .right-about{
     flex: 1;
     order:1;
+}
+
+.main-recipies{
+    flex-direction: column;
+    text-align: center;
+}
+.recipies{
+
 }
